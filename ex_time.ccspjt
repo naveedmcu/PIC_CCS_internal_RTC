@@ -1,0 +1,63 @@
+[PROJECT]
+Target=ex_time.hex
+Processor_Text=PIC16F876
+CCSVersion=5.070
+Compiler=PCM
+[Target Data]
+FileList=ex_time.c
+[ex_time.c]
+Type=4
+[mru-list]
+1=ex_time.c
+
+[defines]
+buildcount=36
+
+[Opened Files]
+1=ex_time.c
+t1=21
+2=..\..\..\..\..\Program Files (x86)\PICC\Drivers\time.h
+t2=169
+Count=3
+3=..\..\..\..\..\Program Files (x86)\PICC\Drivers\input.c
+t3=78
+4=..\..\..\..\..\Program Files (x86)\PICC\Devices\16F876.h
+t4=141
+5=..\..\..\..\..\Program Files (x86)\PICC\Drivers\rtcticks.c
+t5=39
+
+[ProjectLog]
+Days=5
+D1=08-02-2023
+D1_L=7
+D1_L1=[57829]Started Editing.
+D1_L2=[58522]Stopped Editing.
+TotalEdit=49
+TotalDebug=0
+D1_E=48
+D1_D=0
+D1_L3=[58522]Project Closed.
+D1_L4=[59646]Project Opened.
+D1_L5=[59664]Started Editing.
+D1_L6=[61809]Stopped Editing.
+D1_L7=[61809]Project Closed.
+D2=14-02-2023
+D2_L=4
+D2_L1=[60779]Project Opened.
+D2_L2=[60860]Started Editing.
+D2_L3=[61180]Stopped Editing.
+D2_E=1
+D2_D=0
+D2_L4=[61347]Project Closed.
+D3=25-02-2023
+D3_L=1
+D3_L1=[70661]Project Opened.
+D4=26-02-2023
+D4_L=1
+D4_L1=[80253]Project Closed.
+D5=04-03-2023
+D5_L=1
+D5_L1=[76135]Project Opened.
+[Units]
+Count=1
+1=ex_time (main)
